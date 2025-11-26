@@ -135,7 +135,7 @@ MonoBehaviour:
     m_Start: 10.733333333333334
     m_ClipIn: 0
     m_Asset: {fileID: -105960160451636317}
-    m_Duration: 2.106607003075382
+    m_Duration: 2.5666666666666664
     m_TimeScale: 1
     m_ParentTrack: {fileID: -5364172324374280764}
     m_EaseInDuration: 0
@@ -685,7 +685,7 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 12
+        time: 13.033334
         value: {x: 0, y: 91.113, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
@@ -711,8 +711,17 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 12
+        time: 13.033334
         value: {x: -34.201, y: -3.0839996, z: -3.8600006}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 13.416667
+        value: {x: -1.89, y: 0.5, z: 7.75}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -757,7 +766,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 12
+    m_StopTime: 13.416667
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -787,8 +796,17 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 12
+        time: 13.033334
         value: -34.201
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 13.416667
+        value: -1.89
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -817,8 +835,17 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 12
+        time: 13.033334
         value: -3.0839996
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 13.416667
+        value: 0.5
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -847,8 +874,17 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 12
+        time: 13.033334
         value: -3.8600006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 13.416667
+        value: 7.75
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -877,7 +913,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 12
+        time: 13.033334
         value: 0
         inSlope: 0
         outSlope: 0
@@ -907,7 +943,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 12
+        time: 13.033334
         value: 91.113
         inSlope: 0
         outSlope: 0
@@ -937,7 +973,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 12
+        time: 13.033334
         value: 0
         inSlope: 0
         outSlope: 0
@@ -1315,7 +1351,7 @@ MonoBehaviour:
     m_Start: 10.32327366974205
     m_ClipIn: 0
     m_Asset: {fileID: 5409661783130610658}
-    m_Duration: 2.5166666666666666
+    m_Duration: 2.5166666666666657
     m_TimeScale: 1
     m_ParentTrack: {fileID: 2806560678724346699}
     m_EaseInDuration: 0
