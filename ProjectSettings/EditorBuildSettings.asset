@@ -8,5 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hospital_Level.unity
     guid: b1604b8b0931a1e40899c3a51f5e25a6
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c7d556d73666c8b4baf11787b4ec4b88
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
